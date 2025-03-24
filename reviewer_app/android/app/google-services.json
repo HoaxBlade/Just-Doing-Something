@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555001702609",
+    "project_id": "reviewer-62a93",
+    "storage_bucket": "reviewer-62a93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555001702609:android:ccb84ba958a764a0773df0",
+        "android_client_info": {
+          "package_name": "com.example.reviewer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCGEx0tLcLgFT4V4dfFZWTnF-wP9ue5N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
