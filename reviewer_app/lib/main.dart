@@ -83,10 +83,7 @@ class HomeScreen extends StatelessWidget {
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 16),
-            ElevatedButton(
-              onPressed: () {},
-              child: const Text('Search Products'),
-            ),
+            ElevatedButton(onPressed: () {}, child: const Text('Paste link')),
           ],
         ),
       ),
